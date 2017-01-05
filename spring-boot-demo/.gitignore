@@ -25,3 +25,5 @@ nbdist/
 /bin/
 /bin
 /bin
+/mvnw.cmd
+/mvnw
